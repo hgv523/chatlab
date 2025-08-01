@@ -17,7 +17,7 @@ Prospective Students
 * We also welcome visiting scholars and exchange students from around the world who are interested in construction technology and automation.
 * If you are interested in collaboration, please contact [Dr. Gongfan Chen](mailto:gchen120@charlotte.edu).
 
-## News
+News
 ======
 * [July] Dr. Chen presents CII-funded research "RT-398: Fit-for-Purpose Handbook for Effective Implementation of CII Best Practices" at the 2025 CII annual conference in Nashville, Tennessee!
 * [May] 🎉 The [CHAT Lab](https://hgv523.github.io/UNCC/) is now live!
