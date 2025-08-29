@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/
+layout: archive
 ---
 
 {% include base_path %}
