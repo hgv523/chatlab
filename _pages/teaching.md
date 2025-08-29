@@ -1,5 +1,5 @@
 ---
-permalink: /teach/
+permalink: /teaching/
 ---
 
 {% include base_path %}
