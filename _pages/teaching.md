@@ -4,11 +4,16 @@ permalink: /teaching/
 
 {% include base_path %}
 
-## 2025
-[08/11] Dr. Gongfan Chen started his position at UNC Charlotte!
+## Instructor
+•	CMET-2105 Plan Reading, University of North Carolina at Charlotte (Fall 2025)
+## Teaching Assistant
+•	Undergraduate-Level Course
+-	CE365 – Construction Equipment and Method, NC State University (Spring 2021)
+-	CE463 - Construction Estimating, Planning, and Control, NC State University (Fall 2019, Fall 2020, Fall 2021)
+-	CE469 – Construction Engineering Project, NC State University (Spring 2021, Spring 2022, Spring 2023)
+-	CEE431 – Construction Contracting, University of Michigan (Fall 2018)
+•	Graduate-Level Course
+-	CE564 – Legal Aspects of Contracting, NC State University (Spring 2022, Spring 2023, Spring 2024)
+-	CE592 – CII Best Practices, NC State University (Fall 2021)
+-	CE592 – Global Construction Practices, NC State University (Fall 2023)
 
-[07/30] Dr. Chen presents CII-funded research "RT-398: Fit-for-Purpose Handbook for Effective Implementation of CII Best Practices" at the 2025 CII annual conference in Nashville, Tennessee! [click here](https://www.linkedin.com/posts/construction-industry-institute_ciiac25-nashville-activity-7358265320068800512-bI4P?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACPdWesBbEFBVZ5ZsPBipB0JFjciET4qDlA)
-
-[05/01] 🎉 The [CHAT Lab](https://hgv523.github.io/chatlab/) is now live!
-
-[04/29] Dr. Gongfan Chen will join the [Department of Engineering Technology and Construction Management](https://et.charlotte.edu/) at the [UNC Charlotte](https://www.charlotte.edu/) as an Assistant Professor this coming August!
