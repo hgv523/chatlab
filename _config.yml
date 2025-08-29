@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CHAT Lab"
+title                    : "CHAT Lab ![Research Focus](images/C_only.png)"
 title_separator          : "-"
 name                     : &name "Gongfan Chen"
 description              : &description "personal description"
