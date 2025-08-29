@@ -1,6 +1,7 @@
 ---
-permalink: /news/
 layout: archive
+permalink: /news/
+
 ---
 
 {% include base_path %}
