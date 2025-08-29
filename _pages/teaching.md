@@ -1,5 +1,5 @@
 ---
-permalink: /news/
+permalink: /teaching/
 ---
 
 {% include base_path %}
