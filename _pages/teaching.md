@@ -1,6 +1,7 @@
 ---
-permalink: /teaching/
 layout: archive
+permalink: /teaching/
+
 ---
 
 {% include base_path %}
