@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![my headshot]({{ site.url }}/images/gf_profile4.jpg){: .align-right width="250px"}
+![my headshot]({{ site.url }}/images/flip.jpg){: .align-right width="250px"}
 
 Dr. Gongfan Chen (陈巩凡)
 ------
