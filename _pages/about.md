@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "👏 Welcome to the CHAT Lab!"
 author_profile: true
