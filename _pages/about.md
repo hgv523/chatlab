@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "👏 Welcome to the CHAT Lab!"
+title: "👏 Welcome to the CHAT Lab!"![logo](images/C_only.png)
 author_profile: true
 redirect_from: 
   - /about/
