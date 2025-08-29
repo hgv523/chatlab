@@ -9,6 +9,7 @@ author_profile: false
 
 ## Instructor
 * CMET-2105 Plan Reading, University of North Carolina at Charlotte (Fall 2025)
+  
 ## Teaching Assistant
 ### Undergraduate-Level Course
 * CE365 – Construction Equipment and Method, NC State University (Spring 2021)
