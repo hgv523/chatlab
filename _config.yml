@@ -9,7 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CHAT Lab ![Research Focus](images/C_only.png)"
+title                    : "CHAT Lab"
+logo                     : "/images/C_only.png"   # leading slash recommended
+masthead_title           : "CHAT Lab"   # optional: text shown next to the logo
 title_separator          : "-"
 name                     : &name "Gongfan Chen"
 description              : &description "personal description"
