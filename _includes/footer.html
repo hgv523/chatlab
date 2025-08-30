@@ -19,14 +19,17 @@
 </div>
 {% endif %}
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}<br />
-  Department of Engineering Technology and Construction Management<br />
-  University of North Carolina at Charlotte<br />
-  237 Smith Hall, 319 Library Ln, Charlotte, NC 28223<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}
-</div>
+<div style="display:flex; justify-content:space-between; align-items:center; gap:1rem; flex-wrap:wrap;">
+  <!-- Left column -->
+  <div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}<br />
+    Department of Engineering Technology and Construction Management<br />
+    University of North Carolina at Charlotte<br />
+    237 Smith Hall, 319 Library Ln, Charlotte, NC 28223<br />
+    Site last updated {{ "now" | date: '%Y-%m-%d' }}
+  </div>
 
+  <!-- Right column (logo) -->
   <div style="margin-left:auto;">
     <img
       src="{{ '/images/Master_horizontal.png' | absolute_url }}"
