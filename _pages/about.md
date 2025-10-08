@@ -19,6 +19,7 @@ Prospective Students
 
 News
 ======
+* [2025.10] Dr. Gongfan Chen was accepted as a Younger Member of the [ASCE Data Sensing & Analytics Committee](https://www.asce.org/communities/institutes-and-technical-groups/transportation-and-development-institute/committees/board-of-governors--t-di/emerging-technologies-council/data-sensing---analytics-committee).
 * [2025.10] Dr. Gongfan Chen started an affiliated position with the [Charlotte AI Institute](https://research.charlotte.edu/charlotte-ai-institute/).
 * [2025.10] Dr. Gongfan Chen started an affiliated position with the [Charlotte AIR Institute](https://air.charlotte.edu/).
 * [2025.09] Journal paper "Using a Large Language Model-Powered Framework for Automatic Risk Identification and Mitigation from Past Claims and Supplemental Agreements" has been accepted by the ASCE Journal of Computing in Civil Engineering.
