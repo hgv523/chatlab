@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 
 ## 2025
+* [2025.11] CHAT Lab received two grants from UNC Charlotte [SoTL program](https://teaching.charlotte.edu/services-programs/sotl/grants/) to work on AI in Teaching and Learning.
+* [2025.10] Dr. Chen has been selected as a member of the Innovation Incubator Faculty from [urbanCORE](https://urbancore.charlotte.edu/) to work on Charlotte’s identified Opportunity Corridors.
 * [2025.10] Dr. Gongfan Chen started an affiliated position with the [Charlotte AI Institute](https://research.charlotte.edu/charlotte-ai-institute/).
 * [2025.10] Dr. Gongfan Chen started an affiliated position with the [Charlotte AIR Institute](https://air.charlotte.edu/).
 * [2025.09] Journal paper "Using a Large Language Model-Powered Framework for Automatic Risk Identification and Mitigation from Past Claims and Supplemental Agreements" has been accepted by the ASCE Journal of Computing in Civil Engineering.
