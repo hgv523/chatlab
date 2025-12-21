@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 
 ## 2025
+* [2025.12] The conference paper titled “A Novel Edge Computing Framework for Construction Nail Detection under Conditions of Constrained Computing Resources” was published in the ASCE International Conference on Computing in Civil Engineering (i3CE) 2024, held in Pittsburgh, Pennsylvania, 2024.
+* [2025.12] The conference paper titled “Integrating Sensor-Empowered Federated Learning and Smart Contracts for Automatic Flood Risk Management” was published in the ASCE International Conference on Computing in Civil Engineering (i3CE) 2024, held in Pittsburgh, Pennsylvania, 2024.
 * [2025.11] CHAT Lab received a grant from UNC Charlotte [OUR program](https://our.charlotte.edu/programs/academic-year-programs/) to work on Edge AI in construction applications in Spring 2026.
 * [2025.11] CHAT Lab received two grants from UNC Charlotte [SoTL program](https://teaching.charlotte.edu/services-programs/sotl/grants/) to work on AI in Teaching and Learning.
 * [2025.10] Dr. Chen has been selected as a member of the Innovation Incubator Faculty from [urbanCORE](https://urbancore.charlotte.edu/) to work on Charlotte’s identified Opportunity Corridors.
