@@ -20,27 +20,27 @@ redirect_from:
 
 ---
 
-## Ph.D. Student
-
-To be updated
-
----
 
 <hr>
 
 <h2>Undergraduate Researcher</h2>
 
-<div style="display: flex; gap: 24px; align-items: flex-start; margin-top: 1em;">
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1em;">
 
-  <div style="flex: 0 0 160px;">
+  <!-- Headshot -->
+  <div style="flex: 0 0 150px;">
     <img src="{{ site.url }}/images/IMG_0596.JPG"
          alt="Saniya Pritchett headshot"
-         style="width:160px; border-radius: 6px;">
+         style="width:150px; border-radius: 8px; display: block;">
   </div>
 
+  <!-- Text block -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Saniya Pritchett</h3>
-    <p>
+    <h3 style="margin-top: 0; margin-bottom: 0.5em;">
+      Saniya Pritchett
+    </h3>
+
+    <p style="margin-top: 0;">
       Hello! My name is Saniya, and I am a sophomore studying Construction Management
       with a strong interest in project coordination, construction operations, and
       exploring new ways of thinking. Outside of academics, I enjoy dancing, staying
@@ -49,3 +49,4 @@ To be updated
   </div>
 
 </div>
+
