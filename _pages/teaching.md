@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Instructor
-* CMET-2105 Plan Reading, University of North Carolina at Charlotte (Fall 2025)
+* CMET-2105 Plan Reading, University of North Carolina at Charlotte (F25, S26)
   
 ## Teaching Assistant
 ### Undergraduate-Level Course
