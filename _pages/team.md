@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /team/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
