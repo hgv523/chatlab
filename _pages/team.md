@@ -32,13 +32,13 @@ redirect_from:
          style="width:150px; border-radius: 8px; display: block;">
   </div>
 
-  <!-- Text block -->
-  <div style="flex: 1;">
+  <!-- Text block (width constrained) -->
+  <div style="flex: 1; max-width: 520px;">
     <h3 style="margin: 0 0 0.5em 0;">
       Saniya Pritchett
     </h3>
 
-    <p style="margin: 0;">
+    <p style="margin: 0; line-height: 1.6;">
       Hello! My name is Saniya, and I am a sophomore studying Construction Management
       with a strong interest in project coordination, construction operations, and
       exploring new ways of thinking. Outside of academics, I enjoy dancing, staying
