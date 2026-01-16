@@ -24,3 +24,11 @@ Dr. Gongfan Chen (陈巩凡)
 Ph.D. Student
 ======
 To be updated
+
+Undergraduate Researcher
+======
+![my headshot]({{ site.url }}/images/IMG_0596.jpg){: .align-right width="200px"}
+
+Saniya Pritchett
+------
+Hello! My name is Saniya, and I am a sophomore studying Construction Management with a strong interest in project coordination, construction operations, and exploring new ways of thinking. Outside of academics, I enjoy dancing, staying active, and exploring creative outlets. 
