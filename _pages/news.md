@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+## 2026
+* [2026.1] Saniya Pritchett joined the CHAT Lab as an undergraduate researcher. Welcome, Saniya!
 
+ 
 ## 2025
 * [2025.12] The conference paper titled “A Novel Edge Computing Framework for Construction Nail Detection under Conditions of Constrained Computing Resources” was published in the ASCE International Conference on Computing in Civil Engineering (i3CE) 2024, held in Pittsburgh, Pennsylvania, 2024.
 * [2025.12] The conference paper titled “Integrating Sensor-Empowered Federated Learning and Smart Contracts for Automatic Flood Risk Management” was published in the ASCE International Conference on Computing in Civil Engineering (i3CE) 2024, held in Pittsburgh, Pennsylvania, 2024.
