@@ -27,7 +27,7 @@ To be updated
 
 Undergraduate Researcher
 ======
-![my headshot]({{ site.url }}/images/IMG_0596.jpg){: .align-right width="200px"}
+![my headshot]({{ site.url }}/images/IMG_0596.JPG){: .align-right width="200px"}
 
 Saniya Pritchett
 ------
