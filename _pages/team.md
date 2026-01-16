@@ -11,8 +11,6 @@ redirect_from:
 
 ## Dr. Gongfan Chen (陈巩凡)
 
-![Dr. Gongfan Chen headshot]({{ site.url }}/images/flip.jpg){: .align-right width="200px"}
-
 [[Curriculum Vitae]]({{ site.url }}/files/Gongfan Chen-Curriculum Vitae.pdf)
 
 * Ph.D. in Civil Engineering, North Carolina State University, 2023  
@@ -28,10 +26,26 @@ To be updated
 
 ---
 
-## Undergraduate Researcher
+<hr>
 
-### Saniya Pritchett
+<h2>Undergraduate Researcher</h2>
 
-![Saniya Pritchett headshot]({{ site.url }}/images/IMG_0596.JPG){: .align-right width="180px"}
+<div style="display: flex; gap: 24px; align-items: flex-start; margin-top: 1em;">
 
-Hello! My name is Saniya, and I am a sophomore studying Construction Management with a strong interest in project coordination, construction operations, and exploring new ways of thinking. Outside of academics, I enjoy dancing, staying active, and exploring creative outlets.
+  <div style="flex: 0 0 160px;">
+    <img src="{{ site.url }}/images/IMG_0596.JPG"
+         alt="Saniya Pritchett headshot"
+         style="width:160px; border-radius: 6px;">
+  </div>
+
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">Saniya Pritchett</h3>
+    <p>
+      Hello! My name is Saniya, and I am a sophomore studying Construction Management
+      with a strong interest in project coordination, construction operations, and
+      exploring new ways of thinking. Outside of academics, I enjoy dancing, staying
+      active, and exploring creative outlets.
+    </p>
+  </div>
+
+</div>
