@@ -18,14 +18,12 @@ redirect_from:
 * M.S. in Civil Engineering, University of Michigan – Ann Arbor, 2019  
 * B.E. in Engineering Management, North China Electric Power University, 2017  
 
----
-
 
 <hr>
 
 <h2>Undergraduate Researcher</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1em;">
+<div style="display: flex; align-items: center; gap: 24px; margin-top: 1em;">
 
   <!-- Headshot -->
   <div style="flex: 0 0 150px;">
@@ -36,11 +34,11 @@ redirect_from:
 
   <!-- Text block -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 0.5em;">
+    <h3 style="margin: 0 0 0.5em 0;">
       Saniya Pritchett
     </h3>
 
-    <p style="margin-top: 0;">
+    <p style="margin: 0;">
       Hello! My name is Saniya, and I am a sophomore studying Construction Management
       with a strong interest in project coordination, construction operations, and
       exploring new ways of thinking. Outside of academics, I enjoy dancing, staying
@@ -49,4 +47,3 @@ redirect_from:
   </div>
 
 </div>
-
