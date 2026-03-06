@@ -34,9 +34,15 @@ redirect_from:
 
   <!-- Text block -->
   <div style="flex: 1; max-width: 520px;">
-    <h3 style="margin: 0 0 0.5em 0;">
+    <h3 style="margin: 0 0 0.3em 0;">
       Saniya Pritchett
     </h3>
+
+    <!-- Links -->
+    <p style="margin: 0 0 0.6em 0;">
+      <a href="https://www.linkedin.com/in/saniya-pritchett-65302a387/" target="_blank">LinkedIn</a> |
+      <a href="mailto:spritch9@charlotte.edu">Email</a>
+    </p>
 
     <p style="margin: 0; line-height: 1.65; text-align: justify;">
       Hello! My name is Saniya, and I am a sophomore studying Construction Management
@@ -47,4 +53,3 @@ redirect_from:
   </div>
 
 </div>
-
