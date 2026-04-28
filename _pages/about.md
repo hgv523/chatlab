@@ -19,6 +19,9 @@ Prospective Students
 
 News
 ======
+* [2026.4] Saniya successfully completed the Spring 2026 OUR Research Program and presented her research poster at the Undergraduate Research Conference (URC) at UNC Charlotte. Great job, Saniya!
+* [2026.4] Dr. Gongfan Chen started an affiliated position with the [School of Data Science]([https://air.charlotte.edu/](https://sds.charlotte.edu/)) at UNC Charlotte.
+* [2026.4] The CHAT Lab has received a seed grant from the School of Data Science at UNC Charlotte to support research on human–AI interaction in construction.
 * [2026.3] Journal paper "Advancing Fit-for-Purpose Access to CII Best Practices Using Multimodal Large Language Models" has been accepted by the ASCE Journal of Management in Engineering.
 * [2026.1] The conference paper titled “Enhancing the Worker–Robot Interaction for Construction Task Operation: A Preliminary Study Using Large Language Model-Based Methods” was published in the ASCE International Conference on Computing in Civil Engineering (i3CE) 2025, held in New Orleans, Louisiana, 2025.
 * [2026.1] The conference paper titled “Leveraging Large Language Models for Voice-Activated Robotic Teleoperation in Construction” was published in the ASCE International Conference on Computing in Civil Engineering (i3CE) 2025, held in New Orleans, Louisiana, 2025.
