@@ -7,12 +7,27 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-## Dr. Gongfan Chen (陈巩凡)
-[[Curriculum Vitae]]({{ site.url }}/files/Gongfan Chen-Curriculum Vitae.pdf)
-* Ph.D. in Civil Engineering, North Carolina State University, 2023  
-* M.S. in Electrical & Computer Engineering, North Carolina State University, 2023  
-* M.S. in Civil Engineering, University of Michigan – Ann Arbor, 2019  
-* B.E. in Engineering Management, North China Electric Power University, 2017  
+<h2>Principal Investigator</h2>
+
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 0.15em 0; font-size: 1.1em;">Dr. Gongfan Chen (陈巩凡)</h3>
+    <p style="margin: 0 0 0.75em 0; font-size: 0.88em; color: #666; font-style: italic; letter-spacing: 0.01em;">
+      Principal Investigator
+    </p>
+    <p style="margin: 0 0 0.9em 0; line-height: 1.75; font-size: 0.95em; color: #333;">
+      Ph.D. in Civil Engineering, North Carolina State University, 2023<br>
+      M.S. in Electrical &amp; Computer Engineering, North Carolina State University, 2023<br>
+      M.S. in Civil Engineering, University of Michigan – Ann Arbor, 2019<br>
+      B.E. in Engineering Management, North China Electric Power University, 2017
+    </p>
+    <p style="margin: 0;">
+      <a href="{{ site.url }}/files/Gongfan Chen-Curriculum Vitae.pdf" target="_blank" style="text-decoration: none; color: #0077B5; font-size: 0.9em;">
+        📄 Curriculum Vitae
+      </a>
+    </p>
+  </div>
+</div>
 <hr>
 <h2>Undergraduate Researcher</h2>
 
