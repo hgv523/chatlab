@@ -34,3 +34,20 @@ Blockchain-enabled smart contracts represent a tremendous opportunity for enabli
 ![Smart Contract]({{ site.url }}/images/Smart Contract.bmp)
 
 **  **
+
+Funding
+------
+<div style="margin-top: 1.5em; padding: 24px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+    <div style="flex: 0 1 220px; text-align: center;">
+      <img src="{{ site.url }}/images/SOTL.png"
+           alt="Funding Source 1"
+           style="max-width: 100%; height: 90px; object-fit: contain;">
+    </div>
+    <div style="flex: 0 1 220px; text-align: center;">
+      <img src="{{ site.url }}/images/SDS.png"
+           alt="Funding Source 2"
+           style="max-width: 100%; height: 90px; object-fit: contain;">
+    </div>
+  </div>
+</div>
