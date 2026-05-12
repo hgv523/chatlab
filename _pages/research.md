@@ -41,11 +41,11 @@ Funding
   <div>
     <img src="{{ site.url }}/images/SOTL.png"
          alt="Funding Source 1"
-         style="height: 80px; object-fit: contain;">
+         style="height: 120px; object-fit: contain;">
   </div>
   <div>
-    <img src="{{ site.url }}/images/SDS_2.png"
+    <img src="{{ site.url }}/images/SDS.png"
          alt="Funding Source 2"
-         style="height: 80px; object-fit: contain;">
+         style="height: 120px; object-fit: contain;">
   </div>
 </div>
