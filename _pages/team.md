@@ -12,9 +12,6 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
   <div style="flex: 1;">
     <h3 style="margin: 0 0 0.15em 0; font-size: 1.1em;">Dr. Gongfan Chen (陈巩凡)</h3>
-    <p style="margin: 0 0 0.75em 0; font-size: 0.88em; color: #666; font-style: italic; letter-spacing: 0.01em;">
-      Principal Investigator
-    </p>
     <p style="margin: 0 0 0.9em 0; line-height: 1.75; font-size: 0.95em; color: #333;">
       Ph.D. in Civil Engineering, North Carolina State University, 2023<br>
       M.S. in Electrical &amp; Computer Engineering, North Carolina State University, 2023<br>
@@ -28,6 +25,7 @@ redirect_from:
     </p>
   </div>
 </div>
+
 <hr>
 <h2>Undergraduate Researcher</h2>
 
