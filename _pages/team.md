@@ -32,7 +32,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
   <div style="flex: 0 0 140px;">
     <!-- If you have a photo, replace the placeholder below with:
-         <img src="{{ site.url }}/images/Shuai.JPG" alt="Shuai Shao headshot"
+         <img src="{{ site.url }}/images/Shuai.jpg" alt="Shuai Shao headshot"
               style="width:140px; height:175px; object-fit:cover; border-radius:10px; display:block; box-shadow:0 2px 8px rgba(0,0,0,0.12);"> -->
     <div style="width:140px; height:175px; border-radius:10px; background:#dce8f8; display:flex; align-items:center; justify-content:center; font-size:38px; font-weight:500; color:#2a5faa; box-shadow:0 2px 8px rgba(0,0,0,0.08);">SS</div>
   </div>
@@ -45,10 +45,8 @@ redirect_from:
       This is Shuai, a first-year PhD student in Data Science. Before pursuing the Ph.D. in Data Science at UNC Charlotte, I held leadership roles in the catering industry for over a decade, including positions as General Manager and Department Director. As a member of the inaugural cohort of the Ph.D. program, I'm also a graduate student from the Master's program in Data Science and Business Analytics at the School of Data Science, UNC Charlotte. I earned dual bachelor's degrees in French and Economics from Xiamen University, China. My research focuses on Agentic AI, AI Chatbots in Mental Health, AI Literacy, and Multimodal Alignment.
     </p>
     <p style="margin: 0 0 0.75em 0; line-height: 1.75; font-size: 0.95em; color: #333;">
-      B.A., Xiamen University, 2011<br>
-      B.Economics, Xiamen University, 2011<br>
       M.S. in Data Science and Business Analytics, UNC Charlotte, 2024<br>
-      Ph.D. in Data Science, UNC Charlotte, 2025 – Present
+      B.A. in French & Economics, Xiamen University, 2011<br>
     </p>
     <p style="margin: 0;">
       <a href="https://www.linkedin.com/in/shuai-shao-090012297/" target="_blank" style="margin-right: 14px; text-decoration: none; color: #0077B5; font-size: 0.9em;">
