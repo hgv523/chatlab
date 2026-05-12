@@ -16,7 +16,13 @@ redirect_from:
 <hr>
 <h2>Undergraduate Researcher</h2>
 
-<div style="flex: 1; max-width: 520px;">
+<div style="display: flex; align-items: center; gap: 24px; margin-top: 1em;">
+  <div style="flex: 0 0 150px;">
+    <img src="{{ site.url }}/images/IMG_0596.JPG"
+         alt="Saniya Pritchett headshot"
+         style="width:150px; border-radius: 8px; display: block;">
+  </div>
+  <div style="flex: 1; max-width: 520px;">
     <h3 style="margin: 0 0 0.1em 0;">Saniya Pritchett</h3>
     <p style="margin: 0 0 0.6em 0; font-size: 0.9em; color: #555; font-style: italic;">
       B.S. Construction Management, Expected May 2028
@@ -36,8 +42,15 @@ redirect_from:
       </a>
     </p>
   </div>
+</div>
 
-<div style="flex: 1; max-width: 520px;">
+<div style="display: flex; align-items: center; gap: 24px; margin-top: 1em;">
+  <div style="flex: 0 0 150px;">
+    <img src="{{ site.url }}/images/Ananya%20Patchigolla%20Professsional%20Picture.jpg"
+         alt="Ananya Patchigolla headshot"
+         style="width:150px; border-radius: 8px; display: block;">
+  </div>
+  <div style="flex: 1; max-width: 520px;">
     <h3 style="margin: 0 0 0.1em 0;">Ananya Patchigolla</h3>
     <p style="margin: 0 0 0.6em 0; font-size: 0.9em; color: #555; font-style: italic;">
       B.S. Computer Science, Expected May 2027
@@ -54,3 +67,4 @@ redirect_from:
       </a>
     </p>
   </div>
+</div>
