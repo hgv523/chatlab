@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 ## 2026
+* [2026.5] Shuai Shao join the CHAT lab as a Summer Graduate Researcher! Welcome, Shuai!
+* [2026.5] Swapn Shah join the CHAT lab as a Summer Graduate Researcher! Welcome, Swapn!
+* [2026.5] Shreem Dixit join the CHAT lab as a Summer Undergraduate Researcher! Welcome, Shreem!
+* [2026.5] Ananya Patchigolla join the CHAT lab as a Summer Undergraduate Researcher! Welcome, Ananya!
 * [2026.4] Saniya successfully completed the Spring 2026 OUR Research Program and presented her research poster at the Undergraduate Research Conference (URC) at UNC Charlotte. Great job, Saniya!
 * [2026.4] Dr. Gongfan Chen started an affiliated position with the [School of Data Science]([https://air.charlotte.edu/](https://sds.charlotte.edu/)) at UNC Charlotte.
 * [2026.4] The CHAT Lab has received a seed grant from the School of Data Science at UNC Charlotte to support research on human–AI interaction in construction.
