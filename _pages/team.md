@@ -30,7 +30,7 @@ redirect_from:
 <h2>Graduate Researcher</h2>
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
   <div style="flex: 0 0 140px;">
-    <img src="{{ site.url }}/images/Swapn Shah_cropped edit.jpg" alt="Swapn Shah headshot"
+    <img src="{{ site.url }}/images/Swapn Shah_cropped edit.JPG" alt="Swapn Shah headshot"
          style="width:140px; height:175px; object-fit:cover; border-radius:10px; display:block; box-shadow:0 2px 8px rgba(0,0,0,0.12);">
   </div>
   <div style="flex: 1;">
