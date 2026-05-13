@@ -28,6 +28,36 @@ redirect_from:
 
 <hr>
 <h2>Graduate Researcher</h2>
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
+  <div style="flex: 0 0 140px;">
+    <img src="{{ site.url }}/images/Swapn Shah_cropped edit.jpg" alt="Swapn Shah headshot"
+         style="width:140px; height:175px; object-fit:cover; border-radius:10px; display:block; box-shadow:0 2px 8px rgba(0,0,0,0.12);">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 0.15em 0; font-size: 1.1em;">Swapn Shah</h3>
+    <p style="margin: 0 0 0.75em 0; font-size: 0.88em; color: #666; font-style: italic; letter-spacing: 0.01em;">
+      Ph.D. in Computer Science, 2025 – Present
+    </p>
+    <p style="margin: 0 0 0.9em 0; line-height: 1.75; text-align: justify; font-size: 0.95em; color: #333;">
+      Swapn Shah grew up in Ahmedabad, a city in western India, where he completed his high school education before pursuing undergraduate studies. He later earned his master's degree at UNC Charlotte, where he had the opportunity to work as a Research Assistant alongside exceptional colleagues. This experience sparked his interest in pursuing a PhD. After gaining experience in the industry, Swapn realized that his true passion lies in Applied AI, particularly in designing and improving models to address the next generation of challenges. He is now pursuing a PhD at UNC Charlotte, focusing on practical and trustworthy AI to transform careful research into tools that people can use in real-world applications.
+    </p>
+    <p style="margin: 0 0 0.75em 0; line-height: 1.75; font-size: 0.95em; color: #333;">
+      M.S. in Computer Science, UNC Charlotte, 2022<br>
+      B.E. in Computer Science, Gujarat Technological University, 2020<br>
+          </p>
+    <p style="margin: 0;">
+      <a href="http://www.linkedin.com/in/shahswapn" target="_blank" style="margin-right: 14px; text-decoration: none; color: #0077B5; font-size: 0.9em;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="width:15px; vertical-align: middle; margin-right: 4px; filter: invert(31%) sepia(98%) saturate(400%) hue-rotate(170deg);">LinkedIn
+      </a>
+      <a href="mailto:sshah100@charlotte.edu" style="margin-right: 14px; text-decoration: none; color: #D44638; font-size: 0.9em;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="width:15px; vertical-align: middle; margin-right: 4px; filter: invert(31%) sepia(98%) saturate(400%) hue-rotate(330deg);">Email
+      </a>
+      <a href="https://datasciencephd.charlotte.edu/people/swapn-shah/" target="_blank" style="text-decoration: none; color: #555; font-size: 0.9em;">
+        🌐 Website
+      </a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
   <div style="flex: 0 0 140px;">
