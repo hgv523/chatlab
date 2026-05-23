@@ -145,3 +145,28 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.2em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
+  <div style="flex: 0 0 140px;">
+    <img src="{{ site.url }}/images/Shreem_Dixit.jpg"
+         alt="Shreem Dixit headshot"
+         style="width:140px; height: 175px; object-fit: cover; border-radius: 10px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 0.15em 0; font-size: 1.1em;">Shreem Dixit</h3>
+    <p style="margin: 0 0 0.75em 0; font-size: 0.88em; color: #666; font-style: italic; letter-spacing: 0.01em;">
+      B.S. Computer Science &amp; Artificial Intelligence
+    </p>
+    <p style="margin: 0 0 0.9em 0; line-height: 1.75; text-align: justify; font-size: 0.95em; color: #333;">
+      Hi, I'm Shreem Dixit, a double major in Computer Science and Artificial Intelligence at UNC Charlotte. I'm highly interested in AI research, machine learning, data science, and software engineering. I enjoy building real-world technical projects and working on innovative solutions involving Python, backend development, and emerging AI technologies. I'm currently involved in research focused on Edge AI applications and am always looking for opportunities to learn, collaborate, and grow in the tech industry.
+    </p>
+    <p style="margin: 0;">
+      <a href="https://www.linkedin.com/in/shreem-dixit/" target="_blank" style="margin-right: 14px; text-decoration: none; color: #0077B5; font-size: 0.9em;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="width:15px; vertical-align: middle; margin-right: 4px; filter: invert(31%) sepia(98%) saturate(400%) hue-rotate(170deg);">LinkedIn
+      </a>
+      <a href="mailto:sdixit6@charlotte.edu" style="text-decoration: none; color: #D44638; font-size: 0.9em;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="width:15px; vertical-align: middle; margin-right: 4px; filter: invert(31%) sepia(98%) saturate(400%) hue-rotate(330deg);">Email
+      </a>
+    </p>
+  </div>
+</div>
