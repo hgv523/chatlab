@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2026
+* [2026.6] CHAT Lab receives a grant from NC State University to work on "Leveraging Artificial Intelligence for Dynamic Project Health Assessment".
 * [2026.5] Shuai Shao join the CHAT lab as a Summer Graduate Researcher! Welcome, Shuai!
 * [2026.5] Swapn Shah join the CHAT lab as a Summer Graduate Researcher! Welcome, Swapn!
 * [2026.5] Shreem Dixit join the CHAT lab as a Summer Undergraduate Researcher! Welcome, Shreem!

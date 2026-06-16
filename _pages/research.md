@@ -48,4 +48,9 @@ Funding
          alt="Funding Source 2"
          style="height: 120px; object-fit: contain;">
   </div>
+  <div>
+    <img src="{{ site.url }}/images/NC_State.png"
+         alt="NC State University logo"
+         style="height: 120px; object-fit: contain;">
+  </div>
 </div>
