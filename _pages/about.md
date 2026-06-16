@@ -21,7 +21,7 @@ News
 ======
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px 16px; background: #fafafa;">
   <ul id="news-list" style="margin: 0; padding-left: 1.2em; line-height: 1.9;">
-    <li>[2026.6] CHAT Lab receives a grant from NC State University to work on "Leveraging Artificial Intelligence for Dynamic Project Health Assessment".</li>
+    <li>[2026.6] CHAT Lab receives a grant from NC State University.</li>
     <li>[2026.5] Shuai Shao join the CHAT lab as a Summer Graduate Researcher! Welcome, Shuai!</li>
     <li>[2026.5] Swapn Shah join the CHAT lab as a Summer Graduate Researcher! Welcome, Swapn!</li>
     <li>[2026.5] Shreem Dixit join the CHAT lab as a Summer Undergraduate Researcher! Welcome, Shreem!</li>
