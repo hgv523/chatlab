@@ -23,7 +23,7 @@ News
   <ul id="news-list" style="margin: 0; padding-left: 1.2em; line-height: 1.9;">
     <li>[2026.8] Manjesh Mishra joined CHAT Lab as a Ph.D. student! Welcome, Manjesh!</li>
     <li>[2026.7] Dr. Gongfan Chen participated in 2026 Construction Industry Institute (CII) Annual Conference and presented a research poster titled: "AI’s Role in Improving Construction Project Success".</li>
-    <li>[2026.7] Undergraduate Researchers Shreem Dixit and Ananya Patchigolla successfully completed the Summer 2026 OUR Research Program and presented their research posters at the <strong><em>OUR Summer Research Symposium</em></strong>. Great job, Shreem and Ananya!</li>
+    <li>[2026.7] Undergraduate Researchers Shreem Dixit and Ananya Patchigolla successfully completed the Summer 2026 OUR Research Program and presented their research posters at the OUR Summer Research Symposium. Great job, Shreem and Ananya!</li>
     <li>[2026.6] CHAT Lab receives a grant from NC State University.</li>
     <li>[2026.5] Shuai Shao join the CHAT lab as a Summer Graduate Researcher! Welcome, Shuai!</li>
     <li>[2026.5] Swapn Shah join the CHAT lab as a Summer Graduate Researcher! Welcome, Swapn!</li>

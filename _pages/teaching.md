@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Instructor
-* CMET-2135: Building Information Modeling, University of North Carolina at Charlotte (F26)
+* CMET-2135 Building Information Modeling, University of North Carolina at Charlotte (F26)
 * CMET-2105 Plan Reading, University of North Carolina at Charlotte (F25, S26, F26)
   
 ## Teaching Assistant
