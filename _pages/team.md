@@ -28,6 +28,35 @@ redirect_from:
 
 <hr>
 <h2>Graduate Researcher</h2>
+
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
+  <div style="flex: 0 0 140px;">
+    <img src="{{ site.url }}/images/Manjesh_Mishra.jpeg" alt="Manjesh Mishra headshot"
+         style="width:140px; height:175px; object-fit:cover; border-radius:10px; display:block; box-shadow:0 2px 8px rgba(0,0,0,0.12);">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 0.15em 0; font-size: 1.1em;">Manjesh Mishra</h3>
+    <p style="margin: 0 0 0.75em 0; font-size: 0.88em; color: #666; font-style: italic; letter-spacing: 0.01em;">
+      Ph.D. in Infrastructure and Environmental System, 2026.8 – Present
+    </p>
+    <p style="margin: 0 0 0.9em 0; line-height: 1.75; text-align: justify; font-size: 0.95em; color: #333;">
+      Manjesh Mishra grew up in Saptari District, Nepal, and earned his B.E. in Civil Engineering from Tribhuvan University in 2022. His interest in modern construction technologies brought him to the United States, where he completed his M.S. in Construction Management at Texas State University in 2026 and worked as a Graduate Research Assistant. Manjesh is currently pursuing his Ph.D. at UNC Charlotte. His research focuses on artificial intelligence in construction, human-AI interaction, and emerging technologies for the built environment. His long-term goal is to contribute to the development of practical technologies that can improve construction productivity, decision-making, safety, and the overall interaction between people and intelligent systems.
+    </p>
+    <p style="margin: 0 0 0.75em 0; line-height: 1.75; font-size: 0.95em; color: #333;">
+      M.S. in Construction Management, Texas State University, 2026<br>
+      B.E. in Civil Engineering, Tribhuvan University, 2022<br>
+    </p>
+    <p style="margin: 0;">
+      <a href="https://www.linkedin.com/in/manjesh-mishra-423772242/" target="_blank" style="margin-right: 14px; text-decoration: none; color: #0077B5; font-size: 0.9em;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="width:15px; vertical-align: middle; margin-right: 4px; filter: invert(31%) sepia(98%) saturate(400%) hue-rotate(170deg);">LinkedIn
+      </a>
+      <a href="mailto:mmishra6@charlotte.edu" style="margin-right: 14px; text-decoration: none; color: #D44638; font-size: 0.9em;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="width:15px; vertical-align: middle; margin-right: 4px; filter: invert(31%) sepia(98%) saturate(400%) hue-rotate(330deg);">Email
+      </a>
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-top: 1.5em; padding: 20px; background: #f9f9f9; border-radius: 12px; border: 1px solid #e8e8e8;">
   <div style="flex: 0 0 140px;">
     <img src="{{ site.url }}/images/Swapn Shah_cropped edit.JPG" alt="Swapn Shah headshot"
