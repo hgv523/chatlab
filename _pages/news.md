@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2026
-* [2026.9] Congrats Ph.D. student Shuai Shao on winning the **1st Place Poster Prize** at Data Science Day, UNC Chapel Hill, NC, for presenting our research "**What Can Vision–Language Models Spot on a Construction Site?**"
+* [2026.9] Congrats Ph.D. student Shuai Shao on winning the 1st Place Poster Prize at Data Science Day, UNC Chapel Hill, NC, for presenting our research "What Can Vision–Language Models Spot on a Construction Site?"
 * [2026.9] The conference paper titled “Exploring Public Perceptions of U.S. Highway Pedestrian Presence via Reddit and NLP” was published in the ASCE International Conference on Transportation & Development 2026.
 * [2026.9] The conference paper titled “Exploring Public Perceptions of COVID-19’s Impact on the Construction Sector Using Twitter-Based Text Analytics” was published in Construction Research Congress 2026.
 * [2026.9] The conference paper titled “Application of Neural Networks in BIM and 3D Reconstruction: A Systematic and Scientometric Review” was published in Construction Research Congress 2026.
@@ -15,7 +15,7 @@ author_profile: true
 * [2026.9] The conference paper titled “Automated Classification of Construction Incident Reports: A Systematic Review and Evaluation of Models” was published in Construction Research Congress 2026.
 * [2026.9] The conference paper titled “Portable Lightweight Real-Time AI System Using Edge-RAG for Construction Best Practice Interactions” was published in Construction Research Congress 2026.
 * [2026.9] The conference paper titled “An LLM-Powered Agentic Framework for Automatically Converting Construction Contracts into Smart Contracts” was published in Construction Research Congress 2026.
-* [2026.8] CHAT Lab successfully participated in the **National Science Foundation (NSF) I-Corps Mid-Atlantic Hub** and completed the training program.
+* [2026.8] CHAT Lab successfully participated in the National Science Foundation (NSF) I-Corps Mid-Atlantic Hub and completed the training program.
 * [2026.8] Manjesh Mishra joined CHAT Lab as a Ph.D. student! Welcome, Manjesh!
 * [2026.7] Dr. Gongfan Chen participated in 2026 Construction Industry Institute (CII) Annual Conference and presented a research poster titled: "AI’s Role in Improving Construction Project Success".
 * [2026.7] Undergraduate Researchers Shreem Dixit and Ananya Patchigolla successfully completed the Summer 2026 OUR Research Program and presented their research posters at the OUR Summer Research Symposium. Great job, Shreem and Ananya!
