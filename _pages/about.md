@@ -88,6 +88,7 @@ News
 
 <div class="chatlab-news-panel">
   <ul id="news-list">
+    <li>[2026.9] Congrats undergraduate researcher Shreem Dixit on receiving a $3,500 research grant from UNC Charlotte's Office of Undergraduate Research through the 2026 Scholarly Undergraduate Research Grants (SURG) Program for the project "Nova: Autonomous Longitudinal Hazard and Change Detection at Construction Sites via Quadruped Edge-AI".</li>
     <li>[2026.9] Congrats Ph.D. student Shuai Shao on winning the 1st Place Poster Prize at Data Science Day, UNC Chapel Hill, NC, for presenting our research "What Can Vision–Language Models Spot on a Construction Site?"</li>
     <li>[2026.9] The conference paper titled "Exploring Public Perceptions of U.S. Highway Pedestrian Presence via Reddit and NLP" was published in the ASCE International Conference on Transportation & Development 2026.</li>
     <li>[2026.9] The conference paper titled "Exploring Public Perceptions of COVID-19's Impact on the Construction Sector Using Twitter-Based Text Analytics" was published in Construction Research Congress 2026.</li>
