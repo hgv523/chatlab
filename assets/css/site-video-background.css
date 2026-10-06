@@ -87,14 +87,33 @@ html[data-theme="dark"] .chatlab-video-page .page__footer {
     right: 0;
     bottom: 0;
     left: auto;
+    display: flex;
+    align-items: center;
     width: var(--chatlab-video-rail-width);
-    background: #f2f5f5;
-    border-left: 1px solid rgba(24, 83, 78, 0.12);
+    background: #fff;
+    border-left: 1px solid rgba(24, 83, 78, 0.08);
   }
 
   .site-video-background__media {
-    opacity: 0.86;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    opacity: 0.9;
     filter: saturate(0.94) contrast(1.02);
+    -webkit-mask-image: radial-gradient(
+      ellipse at center,
+      #000 68%,
+      rgba(0, 0, 0, 0.92) 76%,
+      rgba(0, 0, 0, 0.44) 91%,
+      transparent 100%
+    );
+    mask-image: radial-gradient(
+      ellipse at center,
+      #000 68%,
+      rgba(0, 0, 0, 0.92) 76%,
+      rgba(0, 0, 0, 0.44) 91%,
+      transparent 100%
+    );
   }
 
   .chatlab-video-page #main {
@@ -109,7 +128,7 @@ html[data-theme="dark"] .chatlab-video-page .page__footer {
   }
 
   html[data-theme="dark"] .site-video-background__media {
-    opacity: 0.76;
+    opacity: 0.8;
     filter: saturate(0.84) brightness(0.8) contrast(1.08);
   }
 
