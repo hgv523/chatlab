@@ -1,3 +1,5 @@
+{% include base_path %}
+
 <style>
 .chatlab-focus {
   position: relative;
@@ -102,7 +104,7 @@
 >
   <img
     class="chatlab-focus__base"
-    src="{{ site.url }}{{ site.baseurl }}/images/HTI.bmp"
+    src="{{ base_path }}/images/HTI.bmp"
     alt=""
     aria-hidden="true"
   >
@@ -113,7 +115,7 @@
   </div>
   <img
     class="chatlab-focus__source"
-    src="{{ site.url }}{{ site.baseurl }}/images/Human_AI_Interaction.gif"
+    src="{{ base_path }}/images/Human_AI_Interaction.gif"
     alt=""
     aria-hidden="true"
     data-chatlab-focus-source
@@ -128,7 +130,7 @@
   <noscript>
     <img
       class="chatlab-focus__fallback"
-      src="{{ site.url }}{{ site.baseurl }}/images/Human_AI_Interaction.gif"
+      src="{{ base_path }}/images/Human_AI_Interaction.gif"
       alt="Animated interaction among a construction professional, a connected building, and an AI assistant"
     >
   </noscript>
