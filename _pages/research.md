@@ -37,20 +37,53 @@ Blockchain-enabled smart contracts represent a tremendous opportunity for enabli
 
 Funding
 ------
-<div style="display: flex; align-items: center; justify-content: center; gap: 60px; margin-top: 1.5em; flex-wrap: wrap;">
-  <div>
-    <img src="{{ site.url }}/images/SOTL.png"
-         alt="Funding Source 1"
-         style="height: 120px; object-fit: contain;">
+<style>
+.funding-grid {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 1.5em;
+  flex-wrap: wrap;
+}
+
+.funding-logo-card {
+  width: 190px;
+  height: 112px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.funding-logo-card img {
+  width: 100%;
+  height: 100%;
+  max-width: 150px;
+  max-height: 72px;
+  object-fit: contain;
+}
+</style>
+
+<div class="funding-grid">
+  <div class="funding-logo-card">
+    <img src="{{ site.url }}/images/OpenAI.svg"
+         alt="OpenAI logo">
   </div>
-  <div>
-    <img src="{{ site.url }}/images/SDS.png"
-         alt="Funding Source 2"
-         style="height: 120px; object-fit: contain;">
-  </div>
-  <div>
+  <div class="funding-logo-card">
     <img src="{{ site.url }}/images/NC_State.png"
-         alt="NC State University logo"
-         style="height: 120px; object-fit: contain;">
+         alt="NC State University logo">
+  </div>
+  <div class="funding-logo-card">
+    <img src="{{ site.url }}/images/SDS.png"
+         alt="UNC Charlotte School of Data Science logo">
+  </div>
+  <div class="funding-logo-card">
+    <img src="{{ site.url }}/images/SOTL.png"
+         alt="UNC Charlotte Scholarship of Teaching and Learning logo">
   </div>
 </div>

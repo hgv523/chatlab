@@ -88,6 +88,9 @@ News
 
 <div class="chatlab-news-panel">
   <ul id="news-list">
+    <li>[2026.10] CHAT Lab received an award from the OpenAI Researcher Access Program to support the project "Shared Situational Awareness for Human-AI Interaction in Construction Safety Application".</li>
+    <li>[2026.10] Congratulations to Swapn Shah on winning the 2nd Place Poster Prize in the INFORMS K-12 Education Outreach and Networking Program for the poster "All Four AIs Said 'Danger.' None of Them Agreed Why".</li>
+    <li>[2026.10] Congratulations to Shuai Shao on winning the 3rd Place Poster Prize in the INFORMS K-12 Education Outreach and Networking Program for the poster "What Can AI Spot on a Construction Site?"</li>
     <li>[2026.9] Congrats undergraduate researcher Shreem Dixit on receiving a $3,500 research grant from UNC Charlotte's Office of Undergraduate Research through the 2026 Scholarly Undergraduate Research Grants (SURG) Program for the project "Nova: Autonomous Longitudinal Hazard and Change Detection at Construction Sites via Quadruped Edge-AI".</li>
     <li>[2026.9] Congrats Ph.D. student Shuai Shao on winning the 1st Place Poster Prize at Data Science Day, UNC Chapel Hill, NC, for presenting our research "What Can Vision–Language Models Spot on a Construction Site?"</li>
     <li>[2026.9] The conference paper titled "Exploring Public Perceptions of U.S. Highway Pedestrian Presence via Reddit and NLP" was published in the ASCE International Conference on Transportation & Development 2026.</li>
