@@ -156,3 +156,5 @@ News
   window.addEventListener('beforeunload', function () { window.clearInterval(interval); });
 })();
 </script>
+
+{% include lab-gallery.html %}

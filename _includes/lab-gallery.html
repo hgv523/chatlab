@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/lab-gallery.css">
+<section class="chatlab-gallery" id="life-at-chat-lab" aria-labelledby="chatlab-gallery-title">
+  <h2 id="chatlab-gallery-title">Life at CHAT Lab</h2>
+  <div class="chatlab-gallery__photos">
+    {% for photo in site.data.lab_photos %}
+    <figure class="chatlab-moment">
+      <a class="chatlab-moment__photo" href="{{ site.url }}{{ site.baseurl }}/images/lab-life/{{ photo.file }}.webp" title="{{ photo.title | escape }}" aria-label="Enlarge photo: {{ photo.title | escape }}">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/lab-life/{{ photo.file }}-720.webp" alt="{{ photo.alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
+      </a>
+      <figcaption>{{ photo.title | escape }}</figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+</section>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/lab-gallery.js" defer></script>
