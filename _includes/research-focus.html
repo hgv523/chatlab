@@ -1,0 +1,207 @@
+<style>
+.chatlab-focus {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3042 / 1262;
+  margin: 1.35rem 0 1.8rem;
+  overflow: hidden;
+  background: #fff;
+}
+
+.chatlab-focus__base {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.chatlab-focus__cleaner {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  background: #fff;
+  clip-path: inset(0 44.5% 0 44.5%);
+}
+
+.chatlab-focus__field {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.chatlab-focus__field--human {
+  left: 0;
+  width: 53%;
+  background: #fbcaa2;
+}
+
+.chatlab-focus__field--technology {
+  right: 0;
+  width: 53%;
+  background: #bfb1d0;
+}
+
+.chatlab-focus__field--overlap {
+  top: 20%;
+  left: 47%;
+  width: 6%;
+  height: 60%;
+  background: #bd97a2;
+}
+
+.chatlab-focus__source {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.chatlab-focus__animation,
+.chatlab-focus__fallback {
+  position: absolute;
+  top: 38%;
+  left: 40%;
+  width: 20%;
+  height: auto;
+  aspect-ratio: 1100 / 520;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 12px rgba(40, 49, 58, 0.12));
+}
+
+.chatlab-focus__fallback {
+  mix-blend-mode: multiply;
+}
+
+@media (max-width: 600px) {
+  .chatlab-focus {
+    margin: 1rem 0 1.4rem;
+  }
+
+  .chatlab-focus__animation,
+  .chatlab-focus__fallback {
+    left: 39%;
+    width: 22%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .chatlab-focus__animation {
+    filter: none;
+  }
+}
+</style>
+
+<div
+  class="chatlab-focus"
+  role="img"
+  aria-label="CHAT Lab research focus: human-centric construction knowledge and technology-empowered automation connected through dynamic human-AI interaction"
+  data-chatlab-focus
+>
+  <img
+    class="chatlab-focus__base"
+    src="{{ base_path }}/images/HTI.bmp"
+    alt=""
+    aria-hidden="true"
+  >
+  <div class="chatlab-focus__cleaner" aria-hidden="true">
+    <span class="chatlab-focus__field chatlab-focus__field--human"></span>
+    <span class="chatlab-focus__field chatlab-focus__field--technology"></span>
+    <span class="chatlab-focus__field chatlab-focus__field--overlap"></span>
+  </div>
+  <img
+    class="chatlab-focus__source"
+    src="{{ base_path }}/images/Human_AI_Interaction.gif"
+    alt=""
+    aria-hidden="true"
+    data-chatlab-focus-source
+  >
+  <canvas
+    class="chatlab-focus__animation"
+    width="660"
+    height="312"
+    aria-hidden="true"
+    data-chatlab-focus-canvas
+  ></canvas>
+  <noscript>
+    <img
+      class="chatlab-focus__fallback"
+      src="{{ base_path }}/images/Human_AI_Interaction.gif"
+      alt="Animated interaction among a construction professional, a connected building, and an AI assistant"
+    >
+  </noscript>
+</div>
+
+<script>
+(function () {
+  var diagrams = document.querySelectorAll('[data-chatlab-focus]');
+  if (!diagrams.length) return;
+
+  var reducedMotion = window.matchMedia &&
+    window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  diagrams.forEach(function (diagram) {
+    var source = diagram.querySelector('[data-chatlab-focus-source]');
+    var canvas = diagram.querySelector('[data-chatlab-focus-canvas]');
+    var context = canvas && canvas.getContext('2d', { willReadFrequently: true });
+    if (!source || !canvas || !context) return;
+
+    var visible = true;
+    var started = false;
+    var lastFrame = 0;
+    var frameDelay = 1000 / 24;
+
+    if ('IntersectionObserver' in window) {
+      new IntersectionObserver(function (entries) {
+        visible = entries[0].isIntersecting;
+      }, { rootMargin: '120px' }).observe(diagram);
+    }
+
+    function drawFrame() {
+      context.clearRect(0, 0, canvas.width, canvas.height);
+      context.drawImage(source, 0, 0, canvas.width, canvas.height);
+
+      var frame = context.getImageData(0, 0, canvas.width, canvas.height);
+      var pixels = frame.data;
+
+      for (var index = 0; index < pixels.length; index += 4) {
+        var red = pixels[index];
+        var green = pixels[index + 1];
+        var blue = pixels[index + 2];
+        var dominance = green - Math.max(red, blue);
+
+        if (green > 110 && dominance > 35) {
+          var remaining = Math.max(0, Math.min(1, (95 - dominance) / 60));
+          pixels[index + 3] = Math.round(pixels[index + 3] * remaining);
+        }
+      }
+
+      context.putImageData(frame, 0, 0);
+    }
+
+    function animate(time) {
+      if (visible && !document.hidden && time - lastFrame >= frameDelay) {
+        drawFrame();
+        lastFrame = time;
+      }
+
+      if (!reducedMotion) window.requestAnimationFrame(animate);
+    }
+
+    function start() {
+      if (started) return;
+      started = true;
+      drawFrame();
+      if (!reducedMotion) window.requestAnimationFrame(animate);
+    }
+
+    if (source.complete && source.naturalWidth) {
+      start();
+    } else {
+      source.addEventListener('load', start, { once: true });
+    }
+  });
+})();
+</script>
